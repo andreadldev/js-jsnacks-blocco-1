@@ -9,5 +9,5 @@ for (let i = 0; i < numbers.length; i++) {
     }
 }
 
-console.log(`Numeri dispari: ${oddNumbers}`);
-console.log(`Somma numeri dispari: ${sum}`);
+console.log(`Numeri in posizione dispari: ${oddNumbers}`);
+console.log(`Somma: ${sum}`);
